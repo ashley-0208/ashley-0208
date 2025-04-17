@@ -1,16 +1,30 @@
 ## Hi there 👋
+ This is `ashley`
+ a newbie python developer, eager to learn and create more and more
+ 
+ ----------
+#### Who am I?
+```python
+class WhoAmI:
+	user = 'ashley sh'
+   	current_work = 'Coding on proccess'
+   	hobbies = [
+   			'Music',
+   			'Watching Anime',
+   			'Learning German and Japanese!'
+          # casully!!
+   			'Try to fit in developers community...'
+   		]
+   
+   def getCity():
+   	return Iran_Urmia()
 
-<!--
-**ashley-0208/ashley-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   def nextgoal():
+    return Breaking into Network and Cybersecurity 
 
-Here are some ideas to get you started:
+```
+------------
+### My Activity
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-0208&show_icons=true&theme=Gradient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
