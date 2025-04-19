@@ -1,6 +1,6 @@
 ## Hi there 👋
- This is `ashley`
- a newbie python developer, eager to learn and create more and more
+ <h3 align="center">This is `ashley`
+ a newbie python developer, eager to learn and create more and more</h3>
  
  ----------
 #### Who am I?
@@ -20,7 +20,7 @@ class WhoAmI:
    	return Iran_Urmia()
 
    def nextgoal():
-    return Breaking into Network and Cybersecurity 
+    return ("Breaking into Network and Cybersecurity")
 
 ```
 ------------
@@ -28,3 +28,12 @@ class WhoAmI:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-0208&show_icons=true&theme=Gradient)
 
 ------------
+What Language i Work with
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+------------
+Contact Me
+
+
+
