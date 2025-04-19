@@ -28,12 +28,14 @@ class WhoAmI:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-0208&show_icons=true&theme=Gradient)
 
 ------------
-What Language i Work with
+Language i Work with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ------------
 Contact Me
 
-<a href="https://instagram.com/_blue.ashley"/><img src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-instagram-96.png?raw=true"/></a>
+<a href="https://instagram.com/_blue.ashley"/><img width="50px" height="50px" align="left" src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-instagram-old-96.png?raw=true"/></a>
+
+<a href="https://t.me/Bluashley"><img width="50px" height="50px" align="left" src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-telegram-96.png?raw=true"/></a>
 
