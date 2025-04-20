@@ -25,7 +25,8 @@ class WhoAmI:
 ```
 ------------
 ### My Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-0208&show_icons=true&theme=Gradient)
+
+![ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashley-0208&theme=moltack&show_icons=true)
 
 ------------
 Language i Work with
