@@ -7,20 +7,25 @@
 ```python
 class WhoAmI:
 	user = 'ashley sh'
-   	current_work = 'Coding on proccess'
+   	current_work = ['Coding on proccess', 'coding telegram bots']
    	hobbies = [
-   			'Music',
-   			'Watching Anime',
-   			'Learning German and Japanese!'
-          # casully!!
-   			'Try to fit in developers community...'
-   		]
+		'Music',
+		'Watching Anime',
+		'Learning German and Japanese!'
+		 # casully!!
+		 'Try to fit in developers community...'
+   			]
    
    def getCity():
    	return Iran_Urmia()
 
    def nextgoal():
-    return ("Breaking into Network and Cybersecurity")
+    next_goals_box = [
+		'breaking into network and cybersecurity',
+		'LINUX',
+		'DATA BASE'
+		]
+
 
 ```
 ------------
