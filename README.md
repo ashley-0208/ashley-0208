@@ -7,7 +7,7 @@
 ```python
 class WhoAmI:
 	user = 'ashley sh'
-   	current_work = ['Coding on proccess', 'coding telegram bots']
+   	current_work = ['Coding on proccess']
    	hobbies = [
 		'Music',
 		'Watching Anime',
@@ -22,8 +22,7 @@ class WhoAmI:
    def nextgoal():
     next_goals_box = [
 		'breaking into network and cybersecurity',
-		'LINUX',
-		'DATA BASE'
+		'locking for internship'
 		]
 
 
@@ -36,7 +35,12 @@ class WhoAmI:
 ------------
 Language i Work with
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
 
 ------------
 Contact Me
@@ -45,3 +49,6 @@ Contact Me
 
 <a href="https://t.me/Bluashley"><img width="50px" height="50px" align="left" src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-telegram-96.png?raw=true"/></a>
 
+<a href="https://www.linkedin.com/in/shaghayegh-shishavani-618088195/"><img width="50px" height="50px" align="left" src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-linkedin-100.png"/></a>
+
+<a href="https://sh.shaghayegh.78@gmail.com"><img width="50px" height="50px" align="left" src="https://github.com/ashley-0208/ashley-0208/blob/main/icons8-mail-48.png"/></a>
